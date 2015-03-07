@@ -1,0 +1,15 @@
+{
+    "name": "moovin/teste_selecao",
+    "description": "Teste Seleção",
+    "authors": [
+        {
+            "name": "Tiago Oliveira de Farias",
+            "email": "tiago.farias.poa@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-0":{
+    		"": "src/"
+    	}
+    }
+}
